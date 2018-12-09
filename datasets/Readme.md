@@ -1,5 +1,5 @@
 # NER-datasets
-Forked from https://github.com/davidsbatista/NER-datasets
+Forked from https://github.com/davidsbatista/NER-datasets   
 Datasets to train supervised classifiers for Named-Entity Recognition
 
 <a name="pt"></a>
