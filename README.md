@@ -9,3 +9,5 @@
 It is a classifier based on tagger.
 ## Standford NER
 A Java implementation of a Named Entity Recognizer. It is also known as CRFClassifier.
+##著名竞赛数据集CoNLL2003  
+https://www.clips.uantwerpen.be/conll2003/ner/
